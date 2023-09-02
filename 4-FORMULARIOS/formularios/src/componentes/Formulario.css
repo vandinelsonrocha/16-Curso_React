@@ -1,0 +1,9 @@
+form  {
+    width: 500px;
+    margin: 0 auto;
+}
+
+input, textarea, select  {
+    display: block;
+    margin-top: 10px;
+}

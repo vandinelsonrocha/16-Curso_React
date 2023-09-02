@@ -1,0 +1,18 @@
+p  {
+    color: yellow;
+    background-color: aqua;
+    margin: 30px;
+}
+
+p.paragrafo-de-comp  {
+    text-transform: uppercase;
+    background-color: blueviolet;
+}
+
+.titulo-azul  {
+    color: blue;
+}
+
+.titulo-rosa  {
+    color: rgb(246, 97, 122);
+}

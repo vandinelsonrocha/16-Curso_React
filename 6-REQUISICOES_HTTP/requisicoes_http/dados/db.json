@@ -1,0 +1,119 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camisa",
+      "preco": 59.9
+    },
+    {
+      "id": 2,
+      "nome": "Calça vermelha",
+      "preco": 90
+    },
+    {
+      "id": 3,
+      "nome": "Boné aba reta",
+      "preco": 29.9
+    },
+    {
+      "nome": "calça",
+      "preco": "170",
+      "id": 4
+    },
+    {
+      "nome": "calça",
+      "preco": "170",
+      "id": 5
+    },
+    {
+      "nome": "calção",
+      "preco": "190",
+      "id": 6
+    },
+    {
+      "nome": "calção",
+      "preco": "190",
+      "id": 7
+    },
+    {
+      "nome": "t-shirt",
+      "preco": "400",
+      "id": 8
+    },
+    {
+      "nome": "chinelo",
+      "preco": "150.20",
+      "id": 9
+    },
+    {
+      "nome": "macacão",
+      "preco": "332",
+      "id": 10
+    },
+    {
+      "nome": "macacão",
+      "preco": "332",
+      "id": 11
+    },
+    {
+      "nome": "porta",
+      "preco": "735.6",
+      "id": 12
+    },
+    {
+      "nome": "t-shirt",
+      "preco": "70",
+      "id": 13
+    },
+    {
+      "nome": "ffff",
+      "preco": "44",
+      "id": 14
+    },
+    {
+      "nome": "ffff",
+      "preco": "44",
+      "id": 15
+    },
+    {
+      "nome": "Jaqueta",
+      "preco": "319",
+      "id": 16
+    },
+    {
+      "nome": "mouse",
+      "preco": "30",
+      "id": 17
+    },
+    {
+      "nome": "mouse",
+      "preco": "30",
+      "id": 18
+    },
+    {
+      "nome": "cadeira",
+      "preco": "105",
+      "id": 19
+    },
+    {
+      "nome": "telemóvel",
+      "preco": "230",
+      "id": 20
+    },
+    {
+      "nome": "telemóvel",
+      "preco": "230",
+      "id": 21
+    },
+    {
+      "nome": "mota",
+      "preco": "770",
+      "id": 22
+    },
+    {
+      "nome": "",
+      "preco": "",
+      "id": 23
+    }
+  ]
+}
